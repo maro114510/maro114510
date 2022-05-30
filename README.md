@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @maro114510
-- 👀 I’m interested in python,scraping,HTML,CSS,Javascript,PHP and so on...
-- 🌱 I’m currently learning scraping by python.
-- 💞️ I’m looking to collaborate on kind and who is interested in python 
+- 惟任日向守です。
+- 興味がある技術や言語は python,ruby,HTML,CSS,Javascript,PHP,AWS,Azure,Dockerです。
+- 今はウェブサービスの勉強中です。
 
 <!---
 maro114510/maro114510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
