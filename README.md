@@ -1,5 +1,5 @@
 - 惟任日向守です。
-- 興味がある技術や言語は python,ruby,HTML,CSS,Javascript,PHP,AWS,Azure,Dockerです。
+- 興味がある技術や言語は python,ruby,Javascript,PHP,AWS,Azure,Dockerです。
 - 今はウェブサービスの勉強中です。
 
 <!---
