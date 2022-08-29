@@ -1,6 +1,6 @@
-- 惟任日向守です。
-- 興味がある技術や言語は python,ruby,Java,PHP,AWS,Azure,Dockerです。
-- 今はウェブサービスの勉強中です。
+-  I am Koretouhyuganokami.
+-  I am interested in python,ruby,Java,PHP,AWS,Azure,Docker.
+-  I am currently studying web services.
 
 <!---
 maro114510/maro114510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
