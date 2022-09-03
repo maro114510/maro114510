@@ -1,4 +1,4 @@
--  I am Koretouhyuganokami.
+
 -  I am interested in python,ruby,Java,PHP,AWS,Azure,Docker.
 -  I am currently studying web services.
 
