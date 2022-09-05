@@ -3,8 +3,8 @@
 -  I am currently studying web services
 
 <p align="center"> 
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=maro114510&theme=onedark&show_icons=ture" />
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maro114510&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=maro114510&theme=onedark&show_icons=ture&show_private=true" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maro114510&layout=compact&show_icons=true&theme=onedark&show_private=true" />
   <img alt="Top tips" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maro114510&theme=dracula" />
 </p>
 
