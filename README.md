@@ -1,5 +1,5 @@
 
--  I am interested in python,ruby,Java,PHP,AWS,Azure,Docker.
+-  I am interested in python,ruby,PHP,AWS,Azure,Docker.
 -  I am currently studying web services
 
 <p align="center"> 
