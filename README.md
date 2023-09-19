@@ -14,5 +14,7 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maro114510&layout=compact&show_icons=true&theme=onedark&count_private=true" />
  </p>
 
+ [![github-chart](https://github-chart.vercel.app/api?user=maro114510)](https://github.com/rokumura7/github-chart)
+
 Feel free to reach out to me through my GitHub profile for questions or potential opportunities. Thank you for considering my application!
 
