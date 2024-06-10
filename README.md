@@ -10,7 +10,6 @@
 #### Insights:
 
 <p align="center"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=maro114510&theme=onedark&show_icons=ture&count_private=true" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maro114510&layout=compact&show_icons=true&theme=onedark&count_private=true" />
 </p>
 
@@ -18,7 +17,7 @@
 
 ### Tech Stack
 
-<p>
+<p align="center">
   <img alt="go" src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=plastic&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=plastic&logoColor=white">
