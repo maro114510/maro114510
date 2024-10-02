@@ -34,5 +34,7 @@
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=plastic&logoColor=white">
 </p>
 
+[![wakatime](https://wakatime.com/badge/user/018d2734-2f22-4f87-9401-29d22bd98c56.svg)](https://wakatime.com/@018d2734-2f22-4f87-9401-29d22bd98c56)
+
 Feel free to reach out to me through my GitHub profile for questions or potential opportunities. Thank you for considering my application!
 
