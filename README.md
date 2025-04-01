@@ -13,11 +13,6 @@
 ### Tech Stack
 
 <p align="center">
-  <img alt="go" src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=plastic&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=plastic&logoColor=white">
-</p>
-
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,ts,rust,python,php,aws,cloudflare,flutter,docker,electron,fastapi,github,grafana,mysql,postgres" alt="My Skills">
   </a>
